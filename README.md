@@ -13,6 +13,11 @@ Setup
 ### Install Foundry
 See the [Foudry Github](https://github.com/gakonst/foundry#installation) repo for installation.
 
+### Install Libraries
+```
+forge install
+```
+
 ### Set up remappings
 ```
 forge remappings > remappings.txt
